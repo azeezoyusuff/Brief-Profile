@@ -3,7 +3,7 @@ Cyber GRC Consultant| ISO 27001 Certified Lead Auditor|  AI Governance| IT & Thi
 
 PROFESSIONAL SUMMARY
 
-Cybersecurity, AI, Governance, Risk & Compliance professional with 10+ years of consulting experience and an MBA in Cybersecurity & AI. Specialized in risk assessment, digital transformation, stakeholder engagement, and leveraging AI, cloud, and compliance to drive organizational value. 
+Cybersecurity, AI, Governance, Risk & Compliance professional with 10+ years of consulting experience and an MBA in Cybersecurity & AI. Specialized in Cyber GRC and AI governance,  risk assessment, digital transformation, stakeholder engagement, and leveraging AI, cloud, and compliance to drive organizational value. 
 
 CYBER GRC AND AI GOVERNANCE FRAMEWORKS AND TOOLS I USE
 
@@ -28,17 +28,17 @@ AI Governance, Risk and Compliance Certificate: Alberta Machine Intelligence Ins
 
     • Responsible AI - Governance & Ethics for Leaders ● AI Safety, Risk Assessment & Compliance ● NIST AI RMF
     
-    ISO 42001 ISO/IEC 27001 Lead Auditor Certificate: GRC Mastery 
+ISO 42001 ISO/IEC 27001 Lead Auditor Certificate: GRC Mastery 
     
     • ISO 27001 Framework & NIST CSF ● Security Risk Assessment ● ISO 31000 Risk Management & ISO 19011 Frameworks 
     
-    Cyber security Governance, Risk and Compliance(GRC) Mastery Certificate: GRC Mastery 
+Cyber security Governance, Risk and Compliance(GRC) Mastery Certificate –  GRC Mastery   
     
     • Cyber Risk Quantification (FAIR) ● NIST CSF ● Third party Risk Management ● Cyber security Audit 
     
-    Cybersecurity for Energy: Ontario Tech University, Canada
+Cybersecurity for Energy - Ontario Tech University, Canada
     
     • Vulnerability Assessment ● Security Gap Assessment ● Incident Reporting and Response 
     
-    AWS Cloud Certificate: ThinkCloudly, United States 
+AWS Cloud Certificate: ThinkCloudly, United States 
  
