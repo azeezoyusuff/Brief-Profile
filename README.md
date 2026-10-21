@@ -2,10 +2,13 @@
 Cyber GRC Consultant| ISO 27001 Certified Lead Auditor|  AI Governance| IT & Third-Party Risk
 
 PROFESSIONAL SUMMARY
+
 Cybersecurity, AI, Governance, Risk & Compliance professional with 10+ years of consulting experience and an MBA in Cybersecurity & AI. Specialized in risk assessment, digital transformation, stakeholder engagement, and leveraging AI, cloud, and compliance to drive organizational value. 
 
 CYBER GRC AND AI GOVERNANCE FRAMEWORKS AND TOOLS I USE
+
 Expert in: 
+
     • Information Security Management System (ISMS) development
     • Third-Party Risk Management & IT Risk.
     • Risk Assessment and Treatment
@@ -16,9 +19,11 @@ Expert in:
     •  Proficient with ServiceNow GRC, Archer, Qualys, Saviynt, AWS, and Azure, with a focus on building resilient, efficient security and governance programs. 
 
 SKILLS
+
     •  Cyber Security Risk Management  Cyber Security Audit  Asset Management  Identity & Access Management (IAM)      Security Education and Awareness  Data Loss Protection (DLP)  Incident Response  Third Party Risk Management Information Security Management System (ISMS) 
 
 CERTIFICATIONS
+
 AI Governance, Risk and Compliance Certificate: Alberta Machine Intelligence Institute (AMII)
     • Responsible AI - Governance & Ethics for Leaders ● AI Safety, Risk Assessment & Compliance ● NIST AI RMF, ISO 42001 ISO/IEC 27001 Lead Auditor Certificate: GRC Mastery 
     • ISO 27001 Framework & NIST CSF ● Security Risk Assessment ● ISO 31000 Risk Management & ISO 19011 Frameworks Cyber security Governance, Risk and Compliance(GRC) Mastery Certificate: GRC Mastery 
