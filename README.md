@@ -18,7 +18,7 @@ Deliverables
 
        ISO 27001 Clause 4 to 10, Asset and Risk Registers, Risk Assessments and Treatment, Control Assessment, the Statement of Applicability, created all core security policies & procedures required for ISO 27001 certification.
        
-3.  Third-Party Risk Management Assessment
+2.  Third-Party Risk Management Assessment
     
  Deliverables
       
