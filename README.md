@@ -5,6 +5,30 @@ PROFESSIONAL SUMMARY
 
 Cybersecurity, AI, Governance, Risk & Compliance professional with 10+ years of consulting experience and an MBA in Cybersecurity & AI. Specialized in Cyber GRC and AI governance,  risk assessment, digital transformation, stakeholder engagement, and leveraging AI, cloud, and compliance to drive organizational value. 
 
+
+
+Best Projects
+
+
+Projects
+
+  1.   Information Security Management System Development (ISMS), from Scratch, for ISO 27001 Certification
+
+Deliverables
+       ISO 27001 Clause 4 to 10, Asset and Risk Registers, Risk Assessments and Treatment, Control Assessment, the Statement of Applicability, created all core security policies & procedures required for ISO 27001 certification.
+       
+2.  Third-Party Risk Management Assessment
+    
+ Deliverables
+      
+      Executive Risk Summary and Third-party Risk Management Questionnaire
+      
+3. Security Maturity Assessment Using NIST CSF
+     
+Deliverables
+      NIST CSF Framework, Current State and Recommendation to uplift Cyber Security Posture
+
+
 CYBER GRC AND AI GOVERNANCE FRAMEWORKS AND TOOLS I USE
 
 Expert in: 
