@@ -1,7 +1,7 @@
 # Brief-Profile
-Cyber GRC Consultant| ISO 27001 Certified Lead Auditor|  AI Governance| IT & Third-Party Risk
+# Cyber GRC Consultant| ISO 27001 Certified Lead Auditor|  AI Governance| IT & Third-Party Risk
 
-PROFESSIONAL SUMMARY
+# PROFESSIONAL SUMMARY
 
 Cybersecurity, AI, Governance, Risk & Compliance professional with 10+ years of consulting experience and an MBA in Cybersecurity & AI. Specialized in Cyber GRC and AI governance,  risk assessment, digital transformation, stakeholder engagement, and leveraging AI, cloud, and compliance to drive organizational value. 
 
