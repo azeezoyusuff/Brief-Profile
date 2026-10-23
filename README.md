@@ -3,7 +3,7 @@
 
 ## PROFESSIONAL SUMMARY
 
-Cybersecurity, AI, Governance, Risk & Compliance professional with 10+ years of consulting experience and an MBA in Cybersecurity & AI. Specialized in Cyber GRC and AI governance,  risk assessment, digital transformation, stakeholder engagement, and leveraging AI, cloud, and compliance to drive organizational value. 
+Cybersecurity, AI, Governance, Risk & Compliance professional with 10+ years of consulting experience and an MBA in Cybersecurity & AI. Specialized in Cyber GRC and AI governance,  risk assessment, security maturity assessment, control assessment, digital transformation, stakeholder engagement, and leveraging AI, cloud, and compliance to drive organizational value. 
 
 
 
@@ -15,6 +15,7 @@ Cybersecurity, AI, Governance, Risk & Compliance professional with 10+ years of 
 | Third-Party Risk Management Assessment |  Executive Risk Summary and Third-party Risk Management Questionnaire | 
 |  Security Maturity Assessment Using NIST CSF |  NIST CSF Framework, Current State and Recommendation to uplift Cyber Security Posture | 
 
+### Links to 3 Best Projects
 
 ### CYBER GRC AND AI GOVERNANCE FRAMEWORKS AND TOOLS I USE
 
