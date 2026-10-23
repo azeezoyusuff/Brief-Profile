@@ -1,37 +1,22 @@
-# Brief-Profile
+
 # Cyber GRC Consultant| ISO 27001 Certified Lead Auditor|  AI Governance| IT & Third-Party Risk
 
-# PROFESSIONAL SUMMARY
+## PROFESSIONAL SUMMARY
 
 Cybersecurity, AI, Governance, Risk & Compliance professional with 10+ years of consulting experience and an MBA in Cybersecurity & AI. Specialized in Cyber GRC and AI governance,  risk assessment, digital transformation, stakeholder engagement, and leveraging AI, cloud, and compliance to drive organizational value. 
 
 
 
-Best Projects
+### Best Projects
+
+| Projects  | Deliverables |
+| --------  | ------------ | 
+| Information Security Management System Development (ISMS), from Scratch, for ISO 27001 Certification |  ISO 27001 Clause 4 to 10, Asset and Risk Registers, Risk Assessments and Treatment, Control Assessment, the Statement of Applicability, created all core security policies & procedures required for ISO 27001 certification | 
+| Third-Party Risk Management Assessment |  Executive Risk Summary and Third-party Risk Management Questionnaire | 
+|  Security Maturity Assessment Using NIST CSF |  NIST CSF Framework, Current State and Recommendation to uplift Cyber Security Posture | 
 
 
-Projects
-
-  1.   Information Security Management System Development (ISMS), from Scratch, for ISO 27001 Certification
-
-Deliverables
-
-       ISO 27001 Clause 4 to 10, Asset and Risk Registers, Risk Assessments and Treatment, Control Assessment, the Statement of Applicability, created all core security policies & procedures required for ISO 27001 certification.
-       
-2.  Third-Party Risk Management Assessment
-    
- Deliverables
-      
-      Executive Risk Summary and Third-party Risk Management Questionnaire
-      
-3. Security Maturity Assessment Using NIST CSF
-     
-Deliverables
-
-      NIST CSF Framework, Current State and Recommendation to uplift Cyber Security Posture
-
-
-CYBER GRC AND AI GOVERNANCE FRAMEWORKS AND TOOLS I USE
+### CYBER GRC AND AI GOVERNANCE FRAMEWORKS AND TOOLS I USE
 
 Expert in: 
 
@@ -44,11 +29,11 @@ Expert in:
     • Drafting governance policies and procedures, and documentations for ISO 27001 certification: policies and procedures for full ISMS development/implementation, System Security Plans (SSPs),Business Impact Analyses (BIAs), Incident Response Plans (IRPs), Policies, Standards and Plans of Action & Milestones (POA&Ms), 
     •  Proficient with ServiceNow GRC, Archer, Qualys, Saviynt, AWS, and Azure, with a focus on building resilient, efficient security and governance programs. 
 
-SKILLS
+### SKILLS
 
     •  Cyber Security Risk Management  Cyber Security Audit  Asset Management  Identity & Access Management (IAM)      Security Education and Awareness  Data Loss Protection (DLP)  Incident Response  Third Party Risk Management Information Security Management System (ISMS) 
 
-CERTIFICATIONS
+### CERTIFICATIONS
 
 AI Governance, Risk and Compliance Certificate: Alberta Machine Intelligence Institute (AMII)
 
