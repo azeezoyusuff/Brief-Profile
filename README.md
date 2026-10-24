@@ -21,7 +21,7 @@ Cybersecurity, AI, Governance, Risk & Compliance professional with 10+ years of 
 
 ## Key Projects Summary
 
-### Porject One:
+## Porject One:
 
 ### ISO/IEC 27001-2022 Information Security Management System Development for a Software Company for ISO 27001 certification
 
