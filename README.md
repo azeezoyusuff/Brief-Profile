@@ -15,13 +15,13 @@ Cybersecurity, AI, Governance, Risk & Compliance professional with 10+ years of 
 | Third-Party Risk Management Assessment |  Executive Risk Summary and Third-party Risk Management Questionnaire | 
 |  Security Maturity Assessment Using NIST CSF |  NIST CSF Framework, Current State and Recommendation to uplift Cyber Security Posture | 
 
-### Links to 3 Best Projects
+## Links to 3 Best Projects
 
-[Visit the Project Link here for Clause 4 to 10 and other required document for ISO 27001 Certification](https://github.com/azeezoyusuff/ISO-IEC-27001-2022-ISMS-for-Stark-Industries-for-ISO-27001-certification/tree/main/Full_ISMS_And_ISO_27001_Certification_Stark_Industries)
+[Visit the Project Link here for Information Security Management System ISMS and other required document for ISO 27001 Certification](https://github.com/azeezoyusuff/ISO-IEC-27001-2022-ISMS-for-Stark-Industries-for-ISO-27001-certification/tree/main/Full_ISMS_And_ISO_27001_Certification_Stark_Industries)
 
-### Key Projects Summary
+## Key Projects Summary
 
-### Porject One
+### Porject One:
 
 ### ISO/IEC 27001-2022 Information Security Management System Development for a Software Company for ISO 27001 certification
 
@@ -87,7 +87,7 @@ As a Cyber Security GRC Analyst, I was tasked to build an ISMS, from start to fi
 
 ###### 3. This resulted to ISO27001 certification achievement and increased sales by 55% and customer trust by 29%
 
-### CYBER GRC AND AI GOVERNANCE FRAMEWORKS AND TOOLS I USE
+## CYBER GRC AND AI GOVERNANCE FRAMEWORKS AND TOOLS I USE
 
 Expert in: 
 
@@ -104,7 +104,7 @@ Expert in:
 
     •  Cyber Security Risk Management  Cyber Security Audit  Asset Management  Identity & Access Management (IAM)      Security Education and Awareness  Data Loss Protection (DLP)  Incident Response  Third Party Risk Management Information Security Management System (ISMS) 
 
-### CERTIFICATIONS
+## CERTIFICATIONS
 
 AI Governance, Risk and Compliance Certificate: Alberta Machine Intelligence Institute (AMII)
 
