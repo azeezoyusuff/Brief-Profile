@@ -23,7 +23,7 @@ Cybersecurity, AI, Governance, Risk & Compliance professional with 10+ years of 
 
 ### Project Two
 
-[Visit the Project Link here for the Security Maturity Assessment: End-to-End] Cyber Security Program to improve Seurity Posture using NIST CSF 800 - 53(https://github.com/azeezoyusuff/-End-to-End-Cyber-Security-Program-to-improve-Security-Posture-Using-NIST-CSF-800--53)
+[Visit the Project Link here for the Security Maturity Assessment: End-to-End Cyber Security Program to improve Seurity Posture using NIST CSF 800 - 53](https://github.com/azeezoyusuff/-End-to-End-Cyber-Security-Program-to-improve-Security-Posture-Using-NIST-CSF-800--53)
 
 
 ## Key Projects Summary
