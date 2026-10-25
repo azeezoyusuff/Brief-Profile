@@ -84,9 +84,8 @@ As a Cyber Security GRC Analyst, I was tasked to build an ISMS, from start to fi
 | ISO/IEC 27001:2022 Ref: Annex 5.19 - 5.22 | Supplier & Vendor Management Policy | 
 | ISO/IEC 27001:2022 Ref: Annex 6.3 - 6.5 | Training & Awareness Policy | 
 
-###### 1. ISO 27001 Clause 4 to 10, Asset and Risk Registers, Risk Assessments and Treatment, Control Assessment, the Statement of Applicability.
 
-
+###### 1. ISO 27001 Clause 4 to 10, Asset and Risk Registers, Risk Assessments and Treatment, Control Assessment, the Statement of Applicability and all core policy documents.
 
 [Visit the Project Link here for all the above-mentioned deliverables](https://github.com/azeezoyusuff/ISO-IEC-27001-2022-ISMS-for-Stark-Industries-for-ISO-27001-certification/tree/main/Full_ISMS_And_ISO_27001_Certification_Stark_Industries)
 
