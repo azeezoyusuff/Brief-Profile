@@ -29,6 +29,10 @@ Cybersecurity, AI, Governance, Risk & Compliance professional with 10+ years of 
 
 [Visit the Project Link here for the Third-Party Risk Management](https://github.com/azeezoyusuff/Third-Party-Risk-Management)
 
+## Achievement
+
+###### 1. This resulted to reduced third-party risk exposure by 35% and improved overall control effectiveness by 32%. 
+
 ## Key Projects Summary
 
 ## Porject One:
